@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+openai
+yfinance
+pandas
+requests
+beautifulsoup4
+pypdf
+sentence-transformers
+chromadb
