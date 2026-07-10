@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.env
+chat_histories*.json
+watchlist.json
+portfolio.json
+chroma_db/
+embeddings.json
+document_chunks.json
+__pycache__/
+*.pyc
+
